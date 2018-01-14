@@ -1,7 +1,7 @@
 # HRT
 HRT13 gearbox controller &amp; driving recorder
 
-##Include
+## Include
 + Embedded software
 + PCB Design(Only pictures)
 
@@ -12,8 +12,9 @@ HRT13 gearbox controller &amp; driving recorder
 + FatFs
 
 ### Image
-
+Main board
 ![main_board](/img/main_board.jpg)
+Node
 ![node](/img/node.jpg)
 
 ### PCB Design
